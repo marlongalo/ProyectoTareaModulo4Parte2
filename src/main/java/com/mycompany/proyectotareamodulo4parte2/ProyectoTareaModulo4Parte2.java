@@ -25,6 +25,7 @@ public static void main(String[] args){
     System.out.println("El club: " +i.getEquipo() +" tiene como capitan a: " +i.getCapitan());
     System.out.println("El club: " +e.getEquipo() +" tiene como capitan a: " +e.getCapitan());
     System.out.println("El club: " +f.getEquipo() +" tiene como capitan a: " +f.getCapitan());
+    System.out.println("Actualizacion para el ambiente y ser aplicado en el sitio remoto");
     
     
 }
